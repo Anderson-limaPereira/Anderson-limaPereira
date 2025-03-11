@@ -5,12 +5,11 @@
                  também framework como React. Transformo designs em realidade, utilizando as tecnologias para criar sites e aplicações web de alta performance,
                  a busca constante por inovação e a satisfação de ver projetos ganhando vida e impactando os usuários. 
                  A programação me permite dar vida às minhas ideias e criar soluções inovadoras e adoro colaborar em projetos junto a equipes de desenvolvimento.
-                 Acredito que um bom design é a chave para criar produtos digitais que as pessoas amam.</strong></p>  
    <br> 
    
    <strong>&nbsp;&nbsp;&nbsp;# Entre em contato #</strong>
   
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
    
    <a href="https://www.instagram.com/anderson_lima.pereira/">
    <img alt="icone do instagram"  width="22px" src="https://cdn.icon-icons.com/icons2/3406/PNG/512/instagram_logo_icon_216343.png">
@@ -25,7 +24,7 @@
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <td>&nbsp;<strong>Estudando<td/>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <td>&nbsp;<strong><td/>
 <br>
 <br>
 
