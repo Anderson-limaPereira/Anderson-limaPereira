@@ -1,4 +1,4 @@
-# Anderson-lima :grin:
+# Anderson-lima :computer:
 
 **`Deselvolvedor FullStack`**
 
@@ -10,13 +10,13 @@
 <br>
 # Linguagens e Tecnologias
 <br>
-<img src="https://skillicons.dev/icons?i=html,&nbsp;,css,&nbsp;,javascript,&nbsp;,react,&nbsp;,ts,&nbsp;,nodejs"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,nodejs"/>
 <br>
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson" />
+<a href="https://github.com/anuraghazra">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=8&card_width=320&custom_title=Tecnologias" />
 </a>
 
