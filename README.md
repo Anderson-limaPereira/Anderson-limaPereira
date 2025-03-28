@@ -13,10 +13,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,nodejs"/>
 <br>
  
-<a href="https://github.com/anuraghazra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anderson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=8&card_width=320&custom_title=Tecnologias" />
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anderson&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Anderson lima github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonlima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&custom_title=Tecnologias" />
+</div>
+
+
 
