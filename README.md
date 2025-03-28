@@ -10,5 +10,6 @@
 <br>
 <img src="https://skillicons.dev/icons?i=html,&nbsp;,css,&nbsp;,javascript,&nbsp;,react,&nbsp;,ts,&nbsp;,nodejs"/>
 <br>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
-  
