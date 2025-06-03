@@ -1,8 +1,8 @@
 # Anderson-lima :computer:
 
-**`Deselvolvedor FullStack`**
+**`Deselvolvedor Front-End`**
 
-  Eu sou Anderson Lima, sou um Desenvolvedor FullStack, tenho experiência e conhecimento criando aplicações em HTML, CSS, JavaScript, também framework como React. Transformo designs em realidade, utilizando as tecnologias para criar sites e aplicações web de alta performance, a busca constante pela inovação e a satisfação de ver projetos ganhando vida e impactando os usuários. A programação me permite dar vida às minhas ideias e criar soluções inovadoras e adoro colaborar em projetos junto com as equipes de desenvolvimento.
+  Eu sou Anderson Lima, sou um Desenvolvedor Front-End, tenho experiência e conhecimento criando aplicações em HTML, CSS, JavaScript, também framework como React. Transformo designs em realidade, utilizando as tecnologias para criar sites e aplicações web de alta performance, a busca constante pela inovação e a satisfação de ver projetos ganhando vida e impactando os usuários. A programação me permite dar vida às minhas ideias e criar soluções inovadoras e adoro colaborar em projetos junto com as equipes de desenvolvimento.
   <br>
   <br>
 # Entre em contato #
